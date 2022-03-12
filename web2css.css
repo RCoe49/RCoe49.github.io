@@ -1,0 +1,32 @@
+h2 {
+    color: darkred;
+  }
+
+  p {
+    color: rgb(53, 29, 0);
+  }
+
+  ul {
+    border: 2px dashed orange;
+  }
+
+  ol {
+    border: 2px solid purple;
+  }
+
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+
+  h1, strong {
+    color: darkblue;
+  }
+
+  em {
+    color: gray;
+  }
+
+  li {
+    color: darkgreen
+  }
