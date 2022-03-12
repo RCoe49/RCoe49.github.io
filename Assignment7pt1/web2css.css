@@ -1,0 +1,32 @@
+h2 {
+    color: rgb(0, 139, 7);
+  }
+
+  p {
+    color: rgb(221, 127, 12);
+  }
+
+  ul {
+    border: 2px dashed orange;
+  }
+
+  ol {
+    border: 2px dashed rgb(19, 0, 128);
+  }
+
+  ol, ul {
+    padding: 10px 30px;
+    border-radius: 10px;
+  }
+
+  h1, strong {
+    color: darkblue;
+  }
+
+  em {
+    color: gray;
+  }
+
+  li {
+    color: darkgreen
+  }
