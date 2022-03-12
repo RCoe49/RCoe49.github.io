@@ -1,9 +1,9 @@
 h2 {
-    color: darkred;
+    color: rgb(0, 139, 7);
   }
 
   p {
-    color: rgb(53, 29, 0);
+    color: rgb(221, 127, 12);
   }
 
   ul {
@@ -11,12 +11,12 @@ h2 {
   }
 
   ol {
-    border: 2px solid purple;
+    border: 2px dashed rgb(19, 0, 128);
   }
 
   ol, ul {
-    padding: 5px 20px;
-    border-radius: 4px;
+    padding: 10px 30px;
+    border-radius: 10px;
   }
 
   h1, strong {
