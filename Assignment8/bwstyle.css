@@ -149,10 +149,10 @@ main {
 }
 
 .flex-container {
-  background-color: red;
-  padding: 1%;
-  display: flex;
-  flex-wrap: wrap;
+    background-color: rgba(0, 255, 0, 0.5);  padding: 1%;
+    padding: 1%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
