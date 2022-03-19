@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
 *,
 *:before,
 *:after {
@@ -17,14 +18,14 @@ body {
 
 h1 {
   font-family: 'Abril Fatface', serif;
-  font-weight: 500;
-  font-size: 1.5em;
-  padding: 1.3em 0;
+  font-weight: 800;
+  font-size: 2em;
+  padding: 1em 0;
 }
 
 
 h2 {
-  font-family: 'David Libre', serif;
+  font-family: 'Bungee', serif;
   font-weight: 500;
   font-size: 1.5em;
   padding: 1.3em 0;
@@ -64,12 +65,12 @@ footer {
   "footy     footy     footy";
 }
 
-header {grid-area: heady; background:rgb(254, 218, 175);}
-nav {grid-area: navvy; background:rgb(232, 206, 236);}
-main {grid-area: mainy; background: rgb(240, 234, 182); max-height: 100%;}
-#aside1 {grid-area: aside1; background: rgb(241, 202, 174);}
-#aside2 {grid-area: aside2; background: rgb(191, 226, 246);}
-footer {grid-area: footy; background: rgb(171, 171, 171);}
+header {grid-area: heady; background:rgb(110, 197, 83);}
+nav {grid-area: navvy; background:rgb(219, 168, 73);}
+main {grid-area: mainy; background: rgb(230, 213, 66); max-height: 100%;}
+#aside1 {grid-area: aside1; background: rgb(38, 86, 131);}
+#aside2 {grid-area: aside2; background: rgb(36, 92, 19);}
+footer {grid-area: footy; background: rgb(72, 81, 87);}
 
 nav ul {
 display: flex;
